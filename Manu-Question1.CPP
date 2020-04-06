@@ -46,5 +46,5 @@ int getLIndex(char string[100],char c)  //missing data type and function name ch
 		}
 	i--;
 }
-
+return -1;      //not found case
 }
